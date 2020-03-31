@@ -26,7 +26,7 @@
 We like SVGs and we think they're the way to display icons on the web. Since Open Iconic are just basic SVGs, we suggest you display them like you would any other image (don't forget the `alt` attribute).
 
 ```
-<img src="/open-iconic/svg/icon-name.svg" alt="icon name">
+<img src="open-iconic/svg/icon-name.svg" alt="icon name">
 ```
 
 #### Using Open Iconic's SVG Sprite
@@ -69,7 +69,7 @@ You can find our Bootstrap stylesheets in `font/css/open-iconic-bootstrap.{css, 
 
 
 ```
-<link href="/open-iconic/font/css/open-iconic-bootstrap.css" rel="stylesheet">
+<link href="open-iconic/font/css/open-iconic-bootstrap.css" rel="stylesheet">
 ```
 
 
@@ -82,7 +82,7 @@ You can find our Bootstrap stylesheets in `font/css/open-iconic-bootstrap.{css, 
 You can find our Foundation stylesheets in `font/css/open-iconic-foundation.{css, less, scss, styl}`
 
 ```
-<link href="/open-iconic/font/css/open-iconic-foundation.css" rel="stylesheet">
+<link href="open-iconic/font/css/open-iconic-foundation.css" rel="stylesheet">
 ```
 
 
@@ -95,7 +95,7 @@ You can find our Foundation stylesheets in `font/css/open-iconic-foundation.{css
 You can find our default stylesheets in `font/css/open-iconic.{css, less, scss, styl}`
 
 ```
-<link href="/open-iconic/font/css/open-iconic.css" rel="stylesheet">
+<link href="open-iconic/font/css/open-iconic.css" rel="stylesheet">
 ```
 
 ```
